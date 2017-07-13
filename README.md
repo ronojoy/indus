@@ -4,7 +4,7 @@
 
 This is an annotated repository of my studies on several aspects of the Indus civilization, the largest of the Bronze age urban civilizations and the earliest such civilization in the Indian continent. 
 
-These studies were conducted, borrowing a phrase from the pioneering historian [D. D. Kosambi](https://en.wikipedia.org/wiki/Damodar_Dharmananda_Kosambi), with "combined methods", that is, by drawing 
+These studies were conducted with, borrowing a phrase from the pioneering historian [D. D. Kosambi](https://en.wikipedia.org/wiki/Damodar_Dharmananda_Kosambi), "combined methods", that is, by drawing 
 tools and perspectives from several disciplines. In the course of these studies, I have had the privilege of collaborating with epigraphists, linguists, computer scientists, archaeologists, and geologists. Our work can be broadly divided into three categories:
 
 * Positional and statistical studies of the Indus script
