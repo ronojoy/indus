@@ -29,5 +29,4 @@ I describe each of these in greater detail below.
 
 ### Machine learning of Indus seal characters
 
-* [Deep learning the Indus script](https://arxiv.org/abs/1702.00523) - arxiv 1702.00523, submitted to *Plos One*. [pdf](https://arxiv.org/pdf/1702.00523)
-
+* [Deep learning the Indus script](https://arxiv.org/abs/1702.00523) - arxiv 1702.00523, submitted to *Plos One*. [pdf](https://arxiv.org/pdf/1702.00523). A Python implementation of the deep learning pipeline described in this [paper is available here](https://github.com/ronojoy/indus-script-ocr).
